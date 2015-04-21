@@ -8,8 +8,8 @@ Synthesizing Tasks
 :College: CUNY School of Professional Studies
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
-:Points: 12
-:Due-Date: YYYY-MM-DDTHH:mm:ss
+:Points: 15
+:Due-Date: 2015-04-27T09:00:00
 
 Overview
 ========
